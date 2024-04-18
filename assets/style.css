@@ -13,6 +13,7 @@ header {
 
 }
 
+/* Text styles */
 h1 {
     font-weight: 800;
     font-size: larger;
@@ -40,6 +41,7 @@ p, label {
     /* padding-left: 1rem; */
 }
 
+/* Navigation Styles */
 #menu {
     font-style: normal;
     font-size:small;
@@ -56,6 +58,7 @@ p, label {
     color: blueviolet;
 }
 
+/* Main Section Styles */
 main {
     background-color:rgba(218, 181, 255, 0.885);
     padding:.25rem;
@@ -92,6 +95,8 @@ main {
     font-weight: 500;
     padding-bottom: .25rem;
 }
+
+/* Footer Styles */
 
 footer {
     background-color: blue ;
