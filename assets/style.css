@@ -18,10 +18,6 @@ header h1 {
     padding-left: 1rem;
 }
 
-/* nav {
-    margin-left: 0;
-} */
-
 #menu {
     font-style: normal;
     font-size:small;
@@ -42,6 +38,11 @@ header h1 {
 main {
     background-color:mediumpurple;
     padding:.25rem;
+}
+
+#headshot   {
+    height:150px;
+    width:150px;
 }
 
 footer {
