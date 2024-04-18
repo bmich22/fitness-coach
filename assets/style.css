@@ -43,9 +43,11 @@ p, label {
 
 /* Navigation Styles */
 
-nav li {
+/* nav li {
     display:inline;
-}
+    padding-right:.25em;
+} */
+
 #menu {
     font-style: normal;
     font-size:small;
