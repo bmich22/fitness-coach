@@ -77,8 +77,8 @@ main {
 }
 
 #headshot img {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     border-radius: 50%;
 }
 
@@ -118,18 +118,43 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     header {
-        text-align:center;
-        padding-top:2em
+        text-align: center;
+        padding-top: 2em
     }
+
     h1 {
         font-size: x-large;
     }
-    nav {
+
+    /* nav {
         background-color:white;
-    }
+    } */
     nav li {
         display: inline;
-        padding-right: 1em;
-        font-size:small;
+        padding-right: 1rem;
+        font-size: small;
     }
+
+    .flex-container {
+        display: flex;
+        justify-content: center;
+        padding: 3rem 0;
+    }
+
+    #headshot img {
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+    }
+
+    #headshot {
+        max-width: 400px;
+    }
+
+    #headshot-text {
+        max-width: 300px;
+        text-align:left;
+        margin-left:4rem;
+    }
+
 }
