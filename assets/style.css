@@ -20,6 +20,10 @@ header h1 {
     line-height: 18px;
 }
 
+#menu a {
+    text-decoration: none;
+}
+
 .active {
     color: blueviolet;
 }
