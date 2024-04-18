@@ -12,10 +12,24 @@ header {
 
 }
 
-header h1 {
+h1 {
     font-weight: 800;
-    font-size: large;
+    font-size: larger;
     padding-left: 1rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-weight: 800;
+    font-size:medium;
+    /* padding-left: 1rem; */
+}
+
+p {
+    font-weight: 400;
+    font-size:small;
+    font-style: italic;
+    /* padding-left: 1rem; */
 }
 
 #menu {
