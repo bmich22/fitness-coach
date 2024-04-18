@@ -117,12 +117,19 @@ footer {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+    header {
+        text-align:center;
+        padding-top:2em
+    }
+    h1 {
+        font-size: x-large;
+    }
     nav {
         background-color:white;
     }
     nav li {
         display: inline;
-        padding-right: .5em;
-        font-size:x-small;
+        padding-right: 1em;
+        font-size:small;
     }
 }
