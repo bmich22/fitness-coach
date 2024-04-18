@@ -25,6 +25,13 @@ h2 {
     /* padding-left: 1rem; */
 }
 
+h3 {
+    font-weight: 800;
+    font-size: smaller;
+    /* padding-left: 1rem; */
+    text-transform: uppercase;
+}
+
 p {
     font-weight: 400;
     font-size:small;
@@ -57,18 +64,12 @@ main {
 .center {
     text-align:center;
 }
-/* #headshot {
-    text-align:center;
-} */
+
 #headshot img  {
     height:100px;
     width:100px;
     border-radius: 50%;
 }
-
-/* #headshot-text {
-    text-align:center;
-} */
 
 footer {
     background-color: blue ;
