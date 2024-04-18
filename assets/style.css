@@ -54,11 +54,21 @@ main {
     padding:.25rem;
 }
 
-#headshot   {
+.center {
+    text-align:center;
+}
+/* #headshot {
+    text-align:center;
+} */
+#headshot img  {
     height:100px;
     width:100px;
     border-radius: 50%;
 }
+
+/* #headshot-text {
+    text-align:center;
+} */
 
 footer {
     background-color: blue ;
