@@ -71,6 +71,10 @@ main {
     border-radius: 50%;
 }
 
+#about-image img {
+    height:100px;
+}
+
 footer {
     background-color: blue ;
     padding: .25rem;
