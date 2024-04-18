@@ -5,6 +5,7 @@ body {
     margin:0;
     padding:0;
     font-family: "Montserrat", sans-serif;
+    color: #3a3a3a;
 }
 header {
     background-color: aqua;
@@ -33,7 +34,7 @@ h3 {
 }
 
 p {
-    font-weight: 400;
+    font-weight: 500;
     font-size:small;
     font-style: italic;
     /* padding-left: 1rem; */
@@ -57,7 +58,7 @@ p {
 
 
 main {
-    background-color:mediumpurple;
+    background-color:rgba(218, 181, 255, 0.885);
     padding:.25rem;
 }
 
