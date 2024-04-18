@@ -42,6 +42,10 @@ p, label {
 }
 
 /* Navigation Styles */
+
+nav li {
+    display:inline;
+}
 #menu {
     font-style: normal;
     font-size:small;
