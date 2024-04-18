@@ -75,6 +75,17 @@ main {
     height:100px;
 }
 
+#about-text ul {
+    text-align:left;
+    margin-right:1rem;
+}
+
+#about-text li {
+    font-size:smaller;
+    font-style: italic;
+    padding-bottom: .25rem;
+}
+
 footer {
     background-color: blue ;
     padding: .25rem;
