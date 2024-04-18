@@ -115,6 +115,13 @@ footer {
     font-size: 150%;
 }
 
+/* Media query: tablets and larger (576px and up) */
+@media screen and (min-width: 576px) {
+    #about-text ul {
+        margin-left:10rem;       
+    }
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     header {
@@ -154,21 +161,24 @@ footer {
 
     #headshot-text {
         max-width: 300px;
-        text-align:left;
+        text-align: left;
     }
 
     #about-image {
-        order:2;
-        max-width:300px;
+        order: 2;
+        max-width: 300px;
     }
 
     #about-image img {
-        height:400px;
+        height: 400px;
     }
 
-    #about-text{
-        max-width:400px;
+    #about-text {
+        max-width: 400px;
         text-align: left;
+    }
+    #about-text ul {
+        margin-left:0;       
     }
 
 
