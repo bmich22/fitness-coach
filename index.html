@@ -35,6 +35,7 @@
 
     <!-- Main -->
     <main>
+        <!-- Intro section -->
         <div class="center">
             <div id="headshot">
                 <img src="assets/images/jane doe fitness trainer headshot.png" alt="photo of Jane Doe Fitness Trainer">
@@ -46,6 +47,7 @@
                     Garden, Nymphemburg and Haidhausen areas.</p>
             </div>
         </div>
+        <!-- About Jane Section -->
         <div class="center white-bg">
             <div id="about-image">
                 <img src="assets/images/trainer-helping-beginner-gym rings.jpg"
@@ -70,26 +72,31 @@
             </div>
         </div>
         <div class="center">
-            <h2>Sign up for Jane's Class Schedule and Locations</h2>
-            <p>Enter your name and email address to receive once monthly updates to Jane's schedule</p>
-        </div>
-        <div>
-            <form method="POST" action="https://formdump.codeinstitute.net">
-                <label for="first-name">
-                    First Name
-                </label>
-                <input id="first-name" type="text" />
-                <label for="last-name">
-                    Last Name
-                </label>
-                <input id="last-name" type="text" />
-                <label for="email">
-                    Email
-                </label>
-                <input id="email" type="email" />
-            </form>
-
-        </div>
+            <div>
+                <h2>Sign up for Jane's Class Schedule and Locations</h2>
+                <p>Enter your name and email address to receive once monthly updates to Jane's schedule</p>
+            </div>
+            <!-- Collect name and email information for mailing list -->
+            <div>
+                <form method="POST" action="https://formdump.codeinstitute.net">
+                    <label for="first-name">
+                        First Name
+                    </label>
+                    <input id="first-name" type="text" required />
+                    <br>
+                    <label for="last-name">
+                        Last Name
+                    </label>
+                    <input id="last-name" type="text" required />
+                    <br>
+                    <label for="email">
+                        Email
+                    </label>
+                    <input id="email" type="email" required />
+                    <button type="submit"><strong>Submit</strong></button>
+                </form>
+            </div>
+            </div>
     </main>
 
     <!-- Footer -->
