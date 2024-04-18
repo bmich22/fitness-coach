@@ -18,11 +18,16 @@ header h1 {
     padding-left: 1rem;
 }
 
+/* nav {
+    margin-left: 0;
+} */
+
 #menu {
     font-style: normal;
-    font-size: smaller;
+    font-size:small;
     list-style-type: none;
     line-height: 20px;
+    margin-left:-20px;
 }
 
 #menu a {
