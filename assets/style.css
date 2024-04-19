@@ -26,13 +26,11 @@ h1 {
 h2 {
     font-weight: 800;
     font-size: medium;
-    /* padding-left: 1rem; */
 }
 
 h3 {
     font-weight: 800;
     font-size: smaller;
-    /* padding-left: 1rem; */
     text-transform: uppercase;
 }
 
@@ -46,7 +44,7 @@ p,label {
 
 #menu {
     font-style: normal;
-    font-size: small;
+    font-size:small;
     list-style-type: none;
     line-height: 20px;
     margin-left: -24px;
@@ -54,12 +52,8 @@ p,label {
 }
 
 #menu a {
-    /* text-decoration: none; */
+    text-decoration: none;
     color:white;
-}
-
-.active {
-    color:red;
 }
 
 /* Main Section Styles */
@@ -110,6 +104,10 @@ footer {
     color:white;
 }
 
+.fa-brands {
+    color:white;
+}
+
 #footer-container {
     display: flex;
     justify-content: space-evenly;
@@ -142,6 +140,11 @@ footer {
 
     h1 {
         font-size: x-large;
+    }
+
+    nav li {
+        padding-right: 1.25rem;
+        font-size: medium;
     }
 
     .flex-container {
@@ -182,6 +185,4 @@ footer {
     #about-text ul {
         margin-left:0;       
     }
-
-
 }
