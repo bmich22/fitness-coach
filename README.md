@@ -1,7 +1,9 @@
 # Jane Doe Fitness Coach
 Jane Doe Fitness Coach is the professional page for a person named Jane Doe and she is a Fitness Coach.  The site is targeted to pople in the Munich area that are looking for a peronal fitness coach or to join group classes that take place in the Munich area. For Jane Doe, the goal of the page is to collect email addresses so she can grow her email list.  This way she can send monthly updates to her email subscribers with her updated schedule and additional information about her classes. 
 ## Mockups
+
 ## UX
+The goal of Jane Doe Fitness Coach is to add people to her email address list so more people know about her classes. It was designed to be easy to navigate and to provide users general information about Jane, and the opportunity to sign up for the email list ao they can be informed about her classes on a monthly basis.  The look is soft and simple so users are not intimidated and to convey Jane's personality and the idea that fitness is for everyone. The site is responsive, so it is easy to follow on all screen sizes.  
 
 ## Color Scheme
 The color scheme for Jane Doe Fitness Coach is welcoming and on the soft side so that users of any age or sex will feel welcome at the site.
@@ -21,19 +23,57 @@ Once a user signs up for Jane's mailing list there isn't really a reason to keep
 | Mobile Wireframe | Tablet Wireframe | Desktop Wireframe |
 | ---------------- | ---------------- | ----------------- |
 | ![screenshot](assets/readme-images/fitness-coach-mobile.jpg) | ![screenshot](assets/readme-images/fitness-coach-tablet.jpg) | ![screenshot](assets/readme-images/Fitness-coach-desktop.jpg) |
-### Mobile
-### Tablet
-### Desktop
 ## Features
 ### Existing
-### Future
-## Tools and Technologies
+| Feature | Description | Screenshot mobile | Screenshot larger screens |
+|-------- | ----------- | ---------- | ---------- |
+| Header and Navigation | The fully responsive navigation bar includes links to the Home, About Jane, Sign-Up and Contact sections of the one page site.  On mobile, the navigation is vertical on the left side of the screen and from screen sizes 576 and greater, it is centered on the page under title with extra space around each element. | ![screenshot](assets/readme-images/navigation-mobile.png) | ![screenshot](assets/readme-images/navigation-576-and-greater.png) |
+|Introduction of Main Section | The introduction section is designed with a headshot image of Jane and short description about her. It is designed to draw users in and not overwhelm with too much information at once. This section is fully responsve to look appealing on all screen sizes. | ![screenshot](assets/readme-images/intro-section-mobile.png) | ![screenshot](assets/readme-images/intro-section-578-and-greater.png) 
+| About Jane section | This section offers more information about Jane and the services that she provides as a fitness coach.  There is another image of Jane, this time training people. The background of this section is white, making the page visually appealing. The section is fully responsive, the image is quite small on mobile so the user can easily scroll to the information, on tablets and desktop, the image is bigger with the information placed on its left. | ![screenshot](assets/readme-images/about-jane-section-mobile.png) | ![screenshot](assets/readme-images/about-jane-section-578-and-greater.png) |
+| Sign-Up Form section | This section has a sign-up form that users are asked to fill in their first name, last name and email address so they can join Jane's email list at Mailchimp.  Jane will then send once monthly emails with her updated schedule since it changes quite often. This section is responsive and is easy to read on all screen sizes. | ![screenshot](assets/readme-images/sign-up-form-section-mobile.png) | ![screenshot](assets/readme-images/sign-up-form-section-larger-screens.png) |
+| Footer section | The footer section delivers contact information, phone, email address then icons with links to social networks. The color of the text and icons is white against the dark gray background, making it easy to see and aesthetically pleasing. This section is responsive and easy to read on all screen sizes. | ![screenshot](assets/readme-images/footer-section-mobile.png) | ![screenshot](assets/readme-images/footer-section-larger-screens.png) |
+
+### Future Features
+Jane Doe Fitness Coach has room to grow and some future features that could enhance the site for both the organizer and the user are:
+* Gallery -- a gallery would give the users a better feel for what working out with Jane is really like and who attends her classes
+* Details of different classes -- it would be helful for the users to be able to read about the different classes in case they are not familiar with them
+* Blog -- a blog would give users a reasons to come back to the site again and again
+* Post Current Schedule -- Jane Doe could post her current schedule on her website but this might discourage users from signing up to her email list
+
+## Tools and Technologies Used
+
+* HTML used for the main site
+* CSS used to style the design of the main site
+* CSS Flexbox used on the page layout and to create responsiveness over different screensizes
+* Github used to store code online
+* Gitpod used for IDE (develpment environment)
+* FontAwesome.com used for social incons
+* Canva.com used to create the favicon for Jane Doe Fitness Coach
+* Google Fonts used to add Montserrat font to Jane Doe Fitness Coach
+
 ## Testing
 ### Manual
+Manual testing was performed on these aspects of Jane Doe Fitness Coach
+* Links - do the links deliver the user where they should?, do links to social networks open in a new window?
+* Responsiveness - is the site visually pleasing on all screen sizes?
+* Forms - do the forms function as planned?
+
 ### Validator Testing
+
 ## Unfixed Bugs
+
 ## Deployment
+
 ## Credits
-### Content and Code
-### Media
-### Acknowlegements
+The following are sources of information used in building Jane Doe Fitness Coach.
+
+### Content, Code and Media
+| Source | Location | Notes |
+| ------ | -------- | ----- |
+| [Freepik.com](https://www.freepik.com/free-photo/fitness-woman-workout_7135725.htm#fromView=search&page=1&position=50&uuid=dc72e9bc-7936-40af-8fe1-e4e2d880d947) | Intro section | Image |
+| [Freepik.com](https://www.freepik.com/free-photo/women-working-out-with-trainer_6265274.htm#fromView=search&page=1&position=31&uuid=74944cf4-5462-46d6-a2be-f4b4b246a365) | About Jane section | Image |
+| [Webdev Simplified](https://youtu.be/fYq5PXgSsbE?si=T-L7xfA9toAmR3PZ) | Main section | Flexbox |
+| [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background) | Main Section | Flexbox |
+| [Divya Thakur](https://www.youtube.com/watch?v=MCo1UtflJHM) | README | General How-To Information |
+
+### Acknowledgements
