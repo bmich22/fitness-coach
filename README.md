@@ -7,10 +7,10 @@ The goal of Jane Doe Fitness Coach is to add people to her email address list so
 
 ## Color Scheme
 The color scheme for Jane Doe Fitness Coach is welcoming and on the soft side so that users of any age or sex will feel welcome at the site.
-#4e4c4c is the background color for the header and footer
-#ffffff is used for the navigation and links on the header and footer
-#aad2db is used for the background color of the main section
-#3a3a3a is used for paragraph text
+* #4e4c4c is the background color for the header and footer
+* #ffffff is used for the navigation and links on the header and footer
+* #aad2db is used for the background color of the main section
+* #3a3a3a is used for paragraph text
 
 ## Typography
 Jane Doe Fitness Coach uses one font, Montserrat, utilizing Montserrat bold for the heading text and Montserrat normal for the paragraph text.  
@@ -75,5 +75,7 @@ The following are sources of information used in building Jane Doe Fitness Coach
 | [Webdev Simplified](https://youtu.be/fYq5PXgSsbE?si=T-L7xfA9toAmR3PZ) | Main section | Flexbox |
 | [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background) | Main Section | Flexbox |
 | [Divya Thakur](https://www.youtube.com/watch?v=MCo1UtflJHM) | README | General How-To Information |
+| [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) | README | Basic Formatting Syntax |
+| [Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) | README | Organized Data with Tables
 
 ### Acknowledgements
