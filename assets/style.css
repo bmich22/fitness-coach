@@ -1,6 +1,7 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* Basic Styles */
 body {
     margin: 0;
     padding: 0;
@@ -9,7 +10,7 @@ body {
 }
 
 header {
-    background-color: rgb(78, 76, 76);
+    background-color: #4e4c4c;
     padding: .25rem;
 
 }
@@ -20,7 +21,7 @@ h1 {
     font-size: larger;
     padding-left: 1rem;
     text-transform: uppercase;
-    color:#aad2db;
+    color: #aad2db;
 }
 
 h2 {
@@ -34,7 +35,8 @@ h3 {
     text-transform: uppercase;
 }
 
-p,label {
+p,
+label {
     font-weight: 500;
     font-size: small;
     font-style: italic;
@@ -44,21 +46,22 @@ p,label {
 
 #menu {
     font-style: normal;
-    font-size:small;
+    font-size: small;
     list-style-type: none;
     line-height: 20px;
     margin-left: -24px;
-    color:white;
+    color: white;
 }
 
 #menu a {
     text-decoration: none;
-    color:white;
+    color: white;
 }
 
 /* Main Section Styles */
+
 main {
-    background-color:#aad2db ;
+    background-color: #aad2db;
     padding: .25rem;
 }
 
@@ -96,18 +99,19 @@ main {
 /* Footer Styles */
 
 footer {
-    background-color: rgb(78, 76, 76);
+    background-color: #4e4c4c;
     padding: .25rem 0 2rem 0;
 }
 
 footer {
-    color:white;
+    color: white;
 }
 
 .fa-brands {
-    color:white;
+    color: white;
 }
 
+/* Displays social network icons horizontally */
 #footer-container {
     display: flex;
     justify-content: space-evenly;
@@ -120,6 +124,7 @@ footer {
 
 /* Media query: tablets and larger (576px and up) */
 @media screen and (min-width: 576px) {
+    /* Displays navigation elements horizontally on larger screens */
     nav li {
         display: inline;
         padding-right: 1rem;
@@ -127,12 +132,13 @@ footer {
     }
 
     #about-text ul {
-        margin-left:10rem;       
+        margin-left: 10rem;
     }
 }
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+    /* Centers navigation elements on largest screens */
     header {
         text-align: center;
         padding-top: 2em
@@ -147,6 +153,7 @@ footer {
         font-size: medium;
     }
 
+    /* Use Flexbox to move content in section side by side */
     .flex-container {
         display: flex;
         justify-content: center;
@@ -168,7 +175,7 @@ footer {
         max-width: 300px;
         text-align: left;
     }
-
+    /* Flexbox moves image to right side of the page */
     #about-image {
         order: 2;
         max-width: 300px;
@@ -182,7 +189,8 @@ footer {
         max-width: 400px;
         text-align: left;
     }
+
     #about-text ul {
-        margin-left:0;       
+        margin-left: 0;
     }
 }
