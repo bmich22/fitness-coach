@@ -35,6 +35,7 @@ Once a user signs up for Jane's mailing list there isn't really a reason to keep
 
 ### Future Features
 Jane Doe Fitness Coach has room to grow and some future features that could enhance the site for both the organizer and the user are:
+* Make the Header sticky so navigation will show when scrolling
 * Gallery -- a gallery would give the users a better feel for what working out with Jane is really like and who attends her classes
 * Details of different classes -- it would be helful for the users to be able to read about the different classes in case they are not familiar with them
 * Blog -- a blog would give users a reasons to come back to the site again and again
@@ -77,5 +78,6 @@ The following are sources of information used in building Jane Doe Fitness Coach
 | [Divya Thakur](https://www.youtube.com/watch?v=MCo1UtflJHM) | README | General How-To Information |
 | [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) | README | Basic Formatting Syntax |
 | [Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) | README | Organized Data with Tables
+| [Shay Howe](https://learn.shayhowe.com/html-css/writing-your-best-code/) | index.html and style.css | Coding Practices
 
 ### Acknowledgements
