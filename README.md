@@ -102,4 +102,4 @@ The following are sources of information used in building Jane Doe Fitness Coach
 
 ### Acknowledgements
 * Thank you to Chris Quinn, my mentor at Code Institute.
-* Thank you to [Code Institute](https://codeinstitute.net/de/) for all of the great content that was needed to create this project.
+* Thank you to [Code Institute](https://codeinstitute.net/de/) for all of the instructional content that was needed to create this project.
