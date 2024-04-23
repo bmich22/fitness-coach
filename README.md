@@ -62,7 +62,15 @@ Manual testing was performed on these aspects of Jane Doe Fitness Coach
 
 ### Validator Testing
 
+| Page | Language | Validator | Outcome |
+| ---- | -------- | --------- | ------- |
+| index.html | HTML |[The W3 Markup Validation Service](https://validator.w3.org/) | No errors found. |
+| thankyou.htlm | HTML |[The W3 Markup Validation Service](https://validator.w3.org/) | No errors found. |
+| style.css | CSS | [The W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/) | No errors found. |
+
+
 ## Unfixed Bugs
+There are no unfixed bugs.
 
 ## Deployment
 The site was deployed to GitHub Pages with the following steps:
