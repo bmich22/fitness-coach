@@ -65,6 +65,16 @@ Manual testing was performed on these aspects of Jane Doe Fitness Coach
 ## Unfixed Bugs
 
 ## Deployment
+The site was deployed to GitHub Pages with the following steps:
+1. Go to Settings in the GitHub Repository
+1. In the left-hand side bar, click on Pages
+1. Under Build and Deployment - Source, click on the drop-down menu and select Deploy from a Branch
+1. Under Branch, click on the drop-down menu and select Main
+1. Next to main, click on the drop-down menu and choose the folder root
+1. Under Branch, click Save
+1. Wait a few minutes and refresh the page. When the site is live, you will have a message at the top of the page, Your site is live with a link to the page.
+
+The live link can be found here: https://bmich22.github.io/fitness-coach/#signup-section
 
 ## Credits
 The following are sources of information used in building Jane Doe Fitness Coach.
