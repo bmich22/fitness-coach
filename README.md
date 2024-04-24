@@ -82,7 +82,7 @@ The site was deployed to GitHub Pages with the following steps:
 1. Under Branch, click Save
 1. Wait a few minutes and refresh the page. When the site is live, you will have a message at the top of the page, Your site is live with a link to the page.
 
-The live link can be found here: https://bmich22.github.io/fitness-coach/#signup-section
+The live link can be found here: https://bmich22.github.io/fitness-coach
 
 ## Credits
 The following are sources of information used in building Jane Doe Fitness Coach.
