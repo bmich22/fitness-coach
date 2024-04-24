@@ -19,12 +19,14 @@ body {
     align-items: center;
   }
 
-/* h1,
-h4,
+h1,
+h4 {
+    padding: 10% 0;
+}
+
 p,
 a {
-    display: block;
-    text-align:center;
-} */
+    line-height: 2rem;
+}
 
 
