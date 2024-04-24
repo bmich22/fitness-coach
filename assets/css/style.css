@@ -210,6 +210,12 @@ footer {
     }
 }
 
+* Media query: tablets and larger (128px and up) */
+@media screen and (min-width: 1280px) {
+    #headshot-text {
+        max-width: 30%;
+    }
+
 /* Styles for thank you page */
 
 .thank-you {
