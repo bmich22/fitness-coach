@@ -1,6 +1,7 @@
 # Jane Doe Fitness Coach
 Jane Doe Fitness Coach is the professional page for a person named Jane Doe and she is a Fitness Coach.  The site is targeted to pople in the Munich area that are looking for a peronal fitness coach or to join group classes that take place in the Munich area. For Jane Doe, the goal of the page is to collect email addresses so she can grow her email list.  This way she can send monthly updates to her email subscribers with her updated schedule and additional information about her classes. 
 ## Mockups
+![screenshot](readme-images/mockup-jane-doe-fitness-coach.png)
 
 ## UX
 The goal of Jane Doe Fitness Coach is to add people to her email address list so more people know about her classes. It was designed to be easy to navigate and to provide users general information about Jane, and the opportunity to sign up for the email list ao they can be informed about her classes on a monthly basis.  The look is soft and simple so users are not intimidated and to convey Jane's personality and the idea that fitness is for everyone. The site is responsive, so it is easy to follow on all screen sizes.  
