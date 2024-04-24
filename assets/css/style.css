@@ -132,7 +132,7 @@ footer {
     nav li {
         display: inline;
         padding-right: 1rem;
-        font-size: small;
+        font-size: medium;
     }
 
     #about-text ul {
