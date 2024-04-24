@@ -11,11 +11,19 @@ body {
     color: #3a3a3a;
     background-color: #aad2db;
 }
+ 
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-h1,
+/* h1,
 h4,
 p,
 a {
-    text-align:center
-}
+    display: block;
+    text-align:center;
+} */
+
 
