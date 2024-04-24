@@ -223,8 +223,8 @@ body {
     height: 100%vh;
 }
 .thank-you {
-    padding-top: 12%;
-    padding-bottom: 12%;
+    /* padding-top: 12%;
+    padding-bottom: 12%; */
 }
 
 .thank-you h1,
