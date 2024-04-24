@@ -211,7 +211,6 @@ footer {
 }
 
 /* Media query: tablets and larger (1280px and up) */
-* Media query: tablets and larger (1280px and up) */
 @media screen and (min-width: 1280px) {
     #headshot-text {
         max-width: 30%;
