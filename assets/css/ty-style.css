@@ -2,7 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
-    margin: 0; padding: 0; border: 0; box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -11,13 +14,13 @@ body {
     color: #3a3a3a;
     background-color: #aad2db;
 }
- 
+
 .center {
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-  }
+}
 
 main {
     padding: 5% 0;
@@ -27,5 +30,3 @@ p,
 a {
     line-height: 2rem;
 }
-
-
