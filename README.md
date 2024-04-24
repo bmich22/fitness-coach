@@ -106,8 +106,8 @@ The following are sources of information used in building Jane Doe Fitness Coach
 | [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) | README | Basic Formatting Syntax |
 | [Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) | README | Organized Data with Tables |
 | [Shay Howe](https://learn.shayhowe.com/html-css/writing-your-best-code/) | index.html and style.css | Coding Practices |
-| Chris Quinn, Mentor | HTML | Smooth Scrolling and "defer" when putting a script in the head |
+| [Chris Quinn, Mentor](https://github.com/10xOXR) | HTML | Smooth Scrolling and "defer" when putting a script in the head |
 
 ### Acknowledgements
-* Thank you to Chris Quinn, my mentor at Code Institute.
+* Thank you to [Chris Quinn](https://github.com/10xOXR), my mentor at Code Institute.
 * Thank you to [Code Institute](https://codeinstitute.net/de/) for all of the instructional content that was needed to create this project.
