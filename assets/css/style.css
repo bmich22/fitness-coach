@@ -219,12 +219,8 @@ footer {
 
 /* Styles for thank you page */
  
-.thank-you {
-    padding-top: 10%;
+#thank-you {
+    background-color: white;
+    padding-top: 8%;
     padding-bottom: 10%;
-}
-
-.thank-you h1,
-h4 {
-    text-align: center;
 }
