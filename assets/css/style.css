@@ -219,19 +219,17 @@ footer {
 
 /* Styles for thank you page */
 
-* {
-    margin: 0; padding: 0; border: 0; box-sizing: border-box;
+footer {
+    display:none;
 }
 
-body {
-    min-height: 100%vh;
-}
 .thank-you {
-    /* padding-top: 12%;
-    padding-bottom: 12%; */
+    padding-top: 12%;
+    padding-bottom: 12%;
 }
 
 .thank-you h1,
 h4 {
     text-align: center;
+    color:#aad2db
 }
