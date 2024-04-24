@@ -190,10 +190,6 @@ footer {
         text-align: left;
     }
 
-    #headshot-text p {
-        font-size: smaller;
-    }
-
     /* Flexbox moves image to right side of the page */
     #about-image {
         order: 2;
