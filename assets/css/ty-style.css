@@ -12,3 +12,11 @@ body {
     color: #3a3a3a;
 }
 
+.center h1,
+h2,
+h4,
+p {
+    text-align: center;
+    padding: 1rem .5rem;
+}
+
