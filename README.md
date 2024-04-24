@@ -86,7 +86,7 @@ The site was deployed to GitHub Pages with the following steps:
 
 The live link can be found here: https://bmich22.github.io/fitness-coach
 
-The live link to the thank you page can be found here: https://bmich22.github.io/fitness-coach/thankyou.html?user_fname=rr&user_lname=ee&user_email=12%40df.com
+The live link to the thank you page can be found here: https://bmich22.github.io/fitness-coach/thank-you.html
 
 ## Credits
 The following are sources of information used in building Jane Doe Fitness Coach.
