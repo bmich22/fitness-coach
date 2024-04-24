@@ -154,6 +154,10 @@ footer {
         font-size: x-large;
     }
 
+    p {
+        font-size:medium;
+    };
+
     nav li {
         padding-right: 1.25rem;
         font-size: medium;
