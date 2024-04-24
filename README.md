@@ -88,6 +88,8 @@ The site was deployed to GitHub Pages with the following steps:
 
 The live link can be found here: https://bmich22.github.io/fitness-coach
 
+The live link to the thank you page can be found here: https://bmich22.github.io/fitness-coach/thankyou.html?user_fname=rr&user_lname=ee&user_email=12%40df.com
+
 ## Credits
 The following are sources of information used in building Jane Doe Fitness Coach.
 
@@ -99,7 +101,8 @@ The following are sources of information used in building Jane Doe Fitness Coach
 | [Webdev Simplified](https://youtu.be/fYq5PXgSsbE?si=T-L7xfA9toAmR3PZ) | Main section | Flexbox |
 | [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background) | Main Section and Thank You page | Flexbox |
 | [W3 Schools](https://www.w3schools.com/howto/howto_css_center-vertical.asp) | Thank You page | Flex Styling |
-| [Divya Thakur](https://www.youtube.com/watch?v=MCo1UtflJHM) | README | General How-To Information |
+| [Six Minutes. Smarter.](https://youtu.be/o05m4q8l7ks?si=rHrdNlwJvRljm55z) | Thank You page | Using Viewport and min-height |
+| [Divya Thakur](https://www.youtube.com/watch?v=MCo1UtflJHM) | README | General how-to information |
 | [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) | README | Basic Formatting Syntax |
 | [Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) | README | Organized Data with Tables |
 | [Shay Howe](https://learn.shayhowe.com/html-css/writing-your-best-code/) | index.html and style.css | Coding Practices |
