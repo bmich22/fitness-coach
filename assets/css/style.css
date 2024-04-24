@@ -219,7 +219,11 @@ footer {
 
 /* Styles for thank you page */
 
-footer {
+main {
+    background-color: white;
+}
+    
+    footer {
     display:none;
 }
 
