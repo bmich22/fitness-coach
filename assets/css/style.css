@@ -147,7 +147,7 @@ footer {
     /* Centers navigation elements on largest screens */
     header {
         text-align: center;
-        padding-top: 2em
+        padding-top: 2rem;
     }
 
     h1 {
