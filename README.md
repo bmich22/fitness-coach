@@ -97,9 +97,7 @@ The following are sources of information used in building Jane Doe Fitness Coach
 | [Freepik.com](https://www.freepik.com/free-photo/fitness-woman-workout_7135725.htm#fromView=search&page=1&position=50&uuid=dc72e9bc-7936-40af-8fe1-e4e2d880d947) | Intro section | Image |
 | [Freepik.com](https://www.freepik.com/free-photo/women-working-out-with-trainer_6265274.htm#fromView=search&page=1&position=31&uuid=74944cf4-5462-46d6-a2be-f4b4b246a365) | About Jane section | Image |
 | [Webdev Simplified](https://youtu.be/fYq5PXgSsbE?si=T-L7xfA9toAmR3PZ) | Main section | Flexbox |
-| [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background) | Main Section and Thank You page | Flexbox |
-| [W3 Schools](https://www.w3schools.com/howto/howto_css_center-vertical.asp) | Thank You page | Flex Styling |
-| [Six Minutes. Smarter.](https://youtu.be/o05m4q8l7ks?si=rHrdNlwJvRljm55z) | Thank You page | Using Viewport and min-height |
+| [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background) | Main Section | Flexbox |
 | [Divya Thakur](https://www.youtube.com/watch?v=MCo1UtflJHM) | README | General how-to information |
 | [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) | README | Basic Formatting Syntax |
 | [Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) | README | Organized Data with Tables |
