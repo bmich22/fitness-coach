@@ -142,7 +142,7 @@ footer {
     #about-text ul {
         margin-left: 10rem;
     }
-
+}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -216,6 +216,7 @@ footer {
     #headshot-text {
         max-width: 30%;
     }
+}
 
 /* Styles for thank you page */
 
