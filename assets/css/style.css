@@ -74,15 +74,9 @@ main {
     padding: 1rem .5rem;
 }
 
-/* #headshot img {
+#headshot img {
     height: 120px;
     width: 120px;
-    border-radius: 50%;
-} */
-
-#headshot img {
-    height: 8rem;
-    width: 8rem;
     border-radius: 50%;
 }
 
@@ -170,12 +164,12 @@ footer {
         display: flex;
         justify-content: center;
         padding: 3rem 0;
-        gap: .5rem 2rem;
+        gap: 10px 40px;
     }
 
     #headshot img {
-        height: 15rem;
-        width: 15rem;
+        height: 250px;
+        width: 250px;
         border-radius: 50%;
     }
 
