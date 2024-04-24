@@ -1,9 +1,8 @@
 # Jane Doe Fitness Coach
 Jane Doe Fitness Coach is the professional page for a person named Jane Doe and she is a Fitness Coach.  The site is targeted to people in the Munich area that are looking for a personal fitness coach or to join group classes that take place in the Munich area. For Jane Doe, the goal of the page is to collect email addresses so she can grow her email list.  This way she can send monthly updates to her email subscribers with her updated schedule and additional information about her classes. 
 ## Mockups
-| Home Page | Thank You Page |
-| --------- | -------------- |
-| ![screenshot](readme-images/mockup-jane-doe-fitness-coach.png) | ![screenshot](readme-images/mockup-thank-you-page.png) |
+
+![screenshot](readme-images/mockup-jane-doe-fitness-coach.png) 
 
 ## UX
 The goal of Jane Doe Fitness Coach is to add people to her email address list so more people know about her classes. It was designed to be easy to navigate and to provide users with general information about Jane, and the opportunity to sign up for the email list so they can be informed about her classes on a monthly basis.  The look is soft and simple, so users are not intimidated and to convey Jane's personality and the idea that fitness is for everyone. The site is responsive, so it is easy to follow on all screen sizes.  
@@ -35,7 +34,7 @@ Once a user signs up for Jane's mailing list there isn't really a reason to keep
 | About Jane section | This section offers more information about Jane and the services that she provides as a fitness coach.  There is another image of Jane, this time training people. The background of this section is white, making the page visually appealing. The section is fully responsive, the image is quite small on mobile so the user can easily scroll to the information, on tablets and desktop, the image is bigger with the information placed on its left. | ![screenshot](readme-images/about-jane-section-mobile.png) | ![screenshot](readme-images/about-jane-section-578-and-greater.png) |
 | Sign-Up Form section | This section has a sign-up form that users are asked to fill in their first name, last name and email address so they can join Jane's email list at Mailchimp.  Jane will then send emails once monthly with her updated schedule since it changes quite often. This section is responsive and is easy to read on all screen sizes. | ![screenshot](readme-images/sign-up-form-section-mobile.png) | ![screenshot](readme-images/sign-up-form-section-larger-screens.png) |
 | Footer section | The footer section delivers contact information, phone, email address then icons with links to social networks. The color of the text and icons is white against the dark gray background, making it easy to see and aesthetically pleasing. This section is responsive and easy to read on all screen sizes. | ![screenshot](readme-images/footer-section-mobile.png) | ![screenshot](readme-images/footer-section-larger-screens.png) |
- Thank You page | From the sign-up form, when users enter their name and email address and click on the submit button, they will go to a thank you page that opens in a new window, so they don't have to click to go back to the original site. | ![screenshot](readme-images/thank-you-page-mobile.png) | ![screenshot](readme-images/thank-you-page-desktop.png) |  
+ Thank You page | From the sign-up form, on submission of the form, users will go to a thank you page that opens in a new window. | ![screenshot](readme-images/thank-you-desktop.png) | ![screenshot](readme-images/thank-you-mobile.png) |  
 
 ### Future Features
 Jane Doe Fitness Coach has room to grow and some future features that could enhance the site for both the organizer and the user are:
@@ -67,10 +66,9 @@ Manual testing was performed on these aspects of Jane Doe Fitness Coach
 
 | Page | Language | Validator | Outcome |
 | ---- | -------- | --------- | ------- |
-| index.html | HTML |[The W3 Markup Validation Service](https://validator.w3.org/) | No errors found. |
-| thankyou.htlm | HTML |[The W3 Markup Validation Service](https://validator.w3.org/) | No errors found. |
-| style.css | CSS | [The W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/) | No errors found. |
-| ty-style.css | CSS | [The W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/) | No errors found. |
+| index.html | HTML |[The W3 Markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmich22.github.io%2Ffitness-coach%2F) | No errors found. |
+| thank-you.html | HTML |[The W3 Markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmich22.github.io%2Ffitness-coach%2Fthank-you.html) | No errors found. |
+| style.css | CSS | [The W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-bmich22-fitnesscoach-6om28dv68cc.ws-eu110.gitpod.io%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | No errors found. |
 
 
 ## Unfixed Bugs
