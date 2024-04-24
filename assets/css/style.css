@@ -129,6 +129,10 @@ footer {
 @media screen and (min-width: 576px) {
 
     /* Displays navigation elements horizontally on larger screens */
+    h {
+        font-size: 150%;
+    }
+
     nav li {
         display: inline;
         padding-right: 1rem;
@@ -138,7 +142,7 @@ footer {
     #about-text ul {
         margin-left: 10rem;
     }
-}
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -150,7 +154,7 @@ footer {
     }
 
     h1 {
-        font-size: x-large;
+        font-size: 200%;
     }
 
     p {
