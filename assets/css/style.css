@@ -97,6 +97,7 @@ main {
     font-style: italic;
     font-weight: 500;
     padding-bottom: .25rem;
+    font-size: small;
 }
 
 /* Footer Styles */
@@ -207,6 +208,10 @@ footer {
 
     #about-text ul {
         margin-left: 0;
+    }
+
+    #about-text li {
+        font-size: medium;
     }
 }
 
